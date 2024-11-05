@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inudoesi.github.io/Pot/sitemap_index.txt
+Sitemap: https://inudoesi.github.io/Txj/sitemap_index.txt
+Sitemap: https://inudoesi.github.io/XHb/sitemap_index.txt
+Sitemap: https://inudoesi.github.io/ZiV/sitemap_index.txt
